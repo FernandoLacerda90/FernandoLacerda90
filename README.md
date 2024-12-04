@@ -1,6 +1,6 @@
 ## Olá 😃 Meu nome é Fernando
 <br>
-<h4>Estou em processo de transição de carreira, atualmente sou aluno da plataforma <a hre="https://www.instagram.com/rodolfomorii/" > <u> DevClub, </u></a>
+<h4>Estou em processo de transição de carreira, atualmente sou aluno da plataforma <a hre="https://rodolfomori.com.br/devclub">DevClub</a>
 onde desenvolvo projetos, aprendo tecnológias atuais, para me consolidar e me tornar um Desenvolvedor Full Stack.</h2>
 <br>
 <br>
